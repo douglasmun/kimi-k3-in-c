@@ -67,3 +67,6 @@ where work lands. Actions must sometimes be dispatched manually on the fork
 (`gh workflow run CI --repo douglasmun/kimi-k3-in-c --ref <branch>`).
 
 No local checkpoint. Nothing here has been run against real K3 weights.
+
+`docs/SESSION_NOTES.md` records the open items — chiefly that PR #4 is unmerged upstream
+and that `macos-port-only` must not be deleted before it is.
